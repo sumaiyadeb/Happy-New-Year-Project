@@ -1,6 +1,6 @@
 .happy {
   text-align: center;
-  background-image: url(Vectorrr.png);
+  background-image: url(img/Vectorrr.png);
   height: 500px;
   background-repeat: no-repeat;
   padding: 50px;
@@ -59,7 +59,7 @@
   margin: 400px;
   background-size: 200%;
   text-align: justify;
-  background-image: url(Vectorrr.png);
+  background-image: url(img/Vectorrr.png);
   background-repeat: no-repeat;
 }
 /* paragharap  */
@@ -86,7 +86,7 @@
   text-decoration: solid;
   padding: 30px;
   margin: 100px;
-  background-image: url(Ellipse\ 1.png);
+  background-image: url(img/Ellipse\ 1.png);
   background-repeat: no-repeat;
 }
 .party {
@@ -230,3 +230,8 @@ footer {
   padding-bottom: 50px;
 }
 /* footer section design end */
+
+.icon-message img {
+  width: 50px;
+  margin-left: 280px;
+}
